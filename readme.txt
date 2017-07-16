@@ -1,5 +1,5 @@
 === ProfilePress ===
-Contributors: Collins Agbonghama
+Contributors: MailOptin Team
 Tags: popups, email, optin form, email optin form, newsletter, automation, lightbox, sidebar form, widget, sidebar widget, newsletters, mailchimp, sendy, campaign monitor, campaignmonitor, aweber, constanctcontact, constant contact, new post notification
 Requires at least: 4.0
 Tested up to: 4.8
