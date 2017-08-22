@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, sendy, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, before post, sidebar widget, sidebar form, exit-intent, exit intent, email signup, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, constant contact form, new post notification, constantcontact plugin, constant contact, constant contact signup form, aweber form, aweber forms, aweber signup form, lead generation, sendy optin form, sendy form, mailing list, opt-in
+Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, sendy, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, before post, sidebar widget, sidebar form, exit-intent, exit intent, email signup, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, constant contact form, new post notification, constantcontact plugin, constant contact, constant contact signup form, aweber form, aweber forms, aweber signup form, lead generation, sendy optin form, sendy form, mailing list, opt-in, convertkit, drip, emailoctopus
 Requires at least: 4.0
 Tested up to: 4.8.1
-Stable tag: 2.1.1.1
+Stable tag: 2.1.2.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,18 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.1.2.0 =
+* Added integration for Drip (Email Marketing Automation Software).
+* Added ConvertKit integration.
+* Added EmailOctopus integration.
+* Added button to clear optin caches.
+* Added settings to change optin branding url with affiliate link.
+* Added impression tracking to inpost optin forms.
+* Missing close icon now display on all optin types after subscription success.
+* Fixed js bug that affected safari browsers when customizer is opened.
+* Connections now implement the features_support() interface contract.
+* Code improvements and performance enhancements.
 
 = 2.1.1.1 =
 * Improve compatibility with MySQL versions less than 5.6.5
