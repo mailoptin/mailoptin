@@ -3,7 +3,7 @@ Contributors: MailOptin
 Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, sendy, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, before post, sidebar widget, sidebar form, exit-intent, exit intent, email signup, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, constant contact form, new post notification, constantcontact plugin, constant contact, constant contact signup form, aweber form, aweber forms, aweber signup form, lead generation, sendy optin form, sendy form, mailing list, opt-in, convertkit, drip, emailoctopus
 Requires at least: 4.0
 Tested up to: 4.8.1
-Stable tag: 2.1.2.0
+Stable tag: 2.1.3.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,21 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.1.3.0 =
+* Added ActiveCampaign integration.
+* Listing of optin and email campaign now displays the newest to oldest.
+* Added styling to pre tag in email template..
+* Added switch to toggle optin campaigns activation.
+* Global success and interaction cookies rule implemented. Was previously missing.
+* New display rule: Optin display can now be determined based on whether users are logged in or not.
+* Added support for click triggered (2-step optin process). (Premium)
+* Added refreshing styling to customizer controls.
+* "Footer Description" changed to "mailing address" in optin customizer.
+* Added check to ensure jQuery.MailOptin and jQuery.MailOptin.track_impression is defined to prevent any error.
+* Fixed bug where custom fields associated with a connect/esp do not show on initial customizer UI page load.
+* Loads of performance enhancements
+* Code improvements.
 
 = 2.1.2.0 =
 * Added integration for Drip (Email Marketing Automation Software).
