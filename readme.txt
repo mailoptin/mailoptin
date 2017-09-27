@@ -18,6 +18,7 @@ See the website for more info https://mailoptin.io
 
 = 2.1.4.0 =
 * Added MailPoet 3 integration.
+* Added support for tags to Aweber subscribers.
 * Optin background image and logo support land in customizer.
 * listing of optin and email campaign now in descending order
 * Fixed bug where undefined webfont js function causes optin not to display.
@@ -36,7 +37,7 @@ See the website for more info https://mailoptin.io
 * Added switch to toggle optin campaigns activation.
 * Global success and interaction cookies rule implemented. Was previously missing.
 * New display rule: Optin display can now be determined based on whether users are logged in or not.
-* Added support for click triggered (2-step optin process). (Premium)
+* Added support for click triggered (2-step optin process).
 * Added refreshing styling to customizer controls.
 * "Footer Description" changed to "mailing address" in optin customizer.
 * Added check to ensure jQuery.MailOptin and jQuery.MailOptin.track_impression is defined to prevent any error.
