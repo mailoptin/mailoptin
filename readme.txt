@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, sendy, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, before post, sidebar widget, sidebar form, exit-intent, exit intent, email signup, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, constant contact form, new post notification, constantcontact plugin, constant contact, constant contact signup form, aweber form, aweber forms, aweber signup form, lead generation, sendy optin form, sendy form, mailing list, opt-in, convertkit, drip, emailoctopus
+Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, top bar, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, sidebar widget, sidebar form, emailoctopus, email octopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, lead generation, sendy form, mailing list, opt-in, hello bar, hellobar, scrolltrigger, scroll trigger, new post notification, elementor form, newsletters, optinmonster, icegram, slide box, slide in, slidein
 Requires at least: 4.0
-Tested up to: 4.8.1
-Stable tag: 2.1.3.0
+Tested up to: 4.8.2
+Stable tag: 2.1.4.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,19 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.1.4.0 =
+* Added MailPoet 3 integration.
+* Optin background image and logo support land in customizer.
+* listing of optin and email campaign now in descending order
+* Fixed bug where undefined webfont js function causes optin not to display.
+* Fixed bug that prevent highlighting of active tab in settings page.
+* Added: shortcode and template tag embed of optin (Premium).
+* replace custom function for trimming text with wp one
+* All text-shadows be gone from every submit buttons in optin forms.
+* Simplified connections composer packaging.
+* Loads of performance enhancements
+* Code improvements.
 
 = 2.1.3.0 =
 * Added ActiveCampaign integration.
