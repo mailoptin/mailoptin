@@ -23,7 +23,7 @@ See the website for more info https://mailoptin.io
 * listing of optin and email campaign now in descending order
 * Fixed bug where undefined webfont js function causes optin not to display.
 * Fixed bug that prevent highlighting of active tab in settings page.
-* Added: shortcode and template tag embed of optin (Premium).
+* Added: shortcode and template tag embed of optin.
 * replace custom function for trimming text with wp one
 * All text-shadows be gone from every submit buttons in optin forms.
 * Simplified connections composer packaging.
