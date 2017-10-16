@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, top bar, wordpress popup, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, after post form, sidebar widget, sidebar form, emailoctopus, email octopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, lead generation, sendy form, mailing list, opt-in, hello bar, hellobar, scrolltrigger, scroll trigger, new post notification, elementor form, newsletters, optinmonster, icegram, slide box, slide in, slidein
+Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, top bar, wordpress popup, getresponse, getresponse360, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, lead capture, sidebar widget, sidebar form, emailoctopus, email octopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, lead generation, sendy form, mailing list, opt-in, hello bar, hellobar, scrolltrigger, scroll trigger, new post notification, elementor form, newsletters, optinmonster, icegram, slide box, slide in, slidein
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 2.1.5.0
+Stable tag: 2.1.6.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.1.6.0 =
+* Added: GetResponse and GetResponse360 integrations.
+* Added: optin campaign schedule.
+* Changed all checkbox control to toggle switch.
+* Fixed bug where TinyMCE field preview wasn’t working in form/template builder.
+* Fixed bug where clearing local cookies didn't clear that of successful optin conversion.
+* Fix compatibility issues with upcoming WordPress 4.9
 
 = 2.1.5.0 =
 * Added after conversion actions feature: close optin, close optin and reload page, redirect to URL.
