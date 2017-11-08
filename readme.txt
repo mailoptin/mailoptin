@@ -3,7 +3,7 @@ Contributors: MailOptin
 Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, top bar, wordpress popup, getresponse, getresponse360, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, lead capture, sidebar widget, sidebar form, emailoctopus, email octopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, lead generation, sendy form, mailing list, opt-in, hello bar, hellobar, scrolltrigger, scroll trigger, new post notification, elementor form, newsletters, optinmonster, icegram, slide box, slide in, slidein
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 2.1.6.0
+Stable tag: 2.1.7.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,16 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.1.7.0 =
+* Added: form background image customization for optin themes that support it.
+* Added: shortcodes in email campaigns are now parsed before they are processed for delivery.
+* Added collapse and expand buttons to connection and settings’ admin pages.
+* Email campaigns label changed to email automation.
+* Log changed to Email Log.
+* Plugin menu re-arranged.
+* Added Primrose sidebar theme.
+* Added dahlia notification bar theme.
 
 = 2.1.6.0 =
 * Added: GetResponse and GetResponse360 integrations.
