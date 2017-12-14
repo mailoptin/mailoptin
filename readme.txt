@@ -22,7 +22,8 @@ See the website for more info https://mailoptin.io
 * Added: connected status added to all connections.
 * Added: state after conversion feature.
 * Added: Close Optin On Note Click in optin form completed.
-* Added: missing form_background_color control
+* Added: missing form_background_color control.
+* Fixed bug where lightbox impression count doubled.
 * Define background-color for all form fields.
 * Added switch to activate/deactivate optin campaigns.
 * Added shortcode support to headline, description and note
