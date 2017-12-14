@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, optin forms, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, top bar, wordpress popup, getresponse, getresponse360, lightbox, modal, optin, optin form, subscribe, email list, after post optin form, lead capture, sidebar widget, sidebar form, emailoctopus, email octopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup, mailchimp signup form, mailchimp optin form, mailchimp widget, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, lead generation, sendy form, mailing list, opt-in, hello bar, hellobar, scrolltrigger, scroll trigger, new post notification, elementor form, newsletters, optinmonster, icegram, slide box, slide in, slidein
-Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 2.1.7.0
+Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building.
+Requires at least: 4.5
+Tested up to: 4.9.1
+Stable tag: 2.2.0.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,35 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.0.0 =
+* Added: Call-to-action button in place of signup fields.
+* Added: MailChimp interest group segmentation.
+* Added: connected status added to all connections.
+* Added: state after conversion feature.
+* Added: Close Optin On Note Click in optin form completed.
+* Added: missing form_background_color control
+* Define background-color for all form fields.
+* Added switch to activate/deactivate optin campaigns.
+* Added shortcode support to headline, description and note
+* Redesigned the connection settings page to be sidebar tabbed.
+* Elementor now added as a connection.
+* Conenction's API key/token now obfuscated on display.
+* Fixed bug in leads subscription that already exist in mailpoet from failing in other language WP installs eg German.
+* Revamped single chosen field as well as date time and ace editor.
+* Successfully added moment requires dependency to MailOptinjs.
+* Rearranged menu such that optin menus comes first before that of email menus.
+* Added missing text-domain in strings.
+* Fix textareas control with long height.
+* Added filter to list of optin form fonts list.
+* All form fields in optin form now captured during form submit.
+* Added an event that is triggered after core optin form validation.
+* An event is now triggered when optin form validation kicks in.
+* Added styling to builder control descriptions.
+* Replaced optin actions buttons with icon font. Tooltip added to describe the action.
+* Replaced email automation actions text descriptions with icons. Tooltip added to describe the action.
+* Ensure OptinConversionsRepository:: month_conversion_count() return integer.
+* Fixed bug with dashdot bar optin theme lacking default css values.
 
 = 2.1.7.0 =
 * Added: form background image customization for optin themes that support it.
