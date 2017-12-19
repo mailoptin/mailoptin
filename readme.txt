@@ -3,7 +3,7 @@ Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building.
 Requires at least: 4.5
 Tested up to: 4.9.1
-Stable tag: 2.2.0.1
+Stable tag: 2.2.0.2
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,11 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.0.2 =
+* Tweak mailerlite to resubscribe user who previously unsubscribe and then opt-in again.
+* Reposition mailchimp group selection to before submit button for themes that supports it.
+* Code and performance improvements.
 
 = 2.2.0.1 =
 * Fixed bug where AWeber connection settings page wasn't showing up.
