@@ -17,7 +17,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.0.3 =
-* Removed test files that raised seurity warning by VaultPress.
+* Removed test files that raised security warning by VaultPress.
 * Slide-in optin form now full width and full heigh on mobile/small screens.
 * Cleanup assets added to customizer preview frame by other plugins/themes.
 * Fixed issue where sendy connection wasn't saving.
