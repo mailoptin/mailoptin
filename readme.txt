@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building.
+Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building, ab test.
 Requires at least: 4.5
-Tested up to: 4.9.1
-Stable tag: 2.2.0.3
+Tested up to: 4.9.4
+Stable tag: 2.2.1.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,33 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.1.0 =
+* New: A/B Testing of optin campaigns.
+* More optin themes added.
+* Fixed bug where impression wasnt counting for sidebar/inpost optin forms.
+* Fixed bug where impression count was doubling for popups, notification bar and slide in optins.
+* Added activation of email camapign as toggle switches.
+* Added support for background color for optin form fields.
+* Fixed bug in OptinCampaignsRepository::get_optin_campaign_ids() working incorrectly.
+* Fixed bug where columbine inpost field get overly long when CTA is activated with onclick to reveal optin.
+* Fix styling for email campaign schedule control in customizer.
+* Rebuilt how optin form style are inlined.
+* Fixed bug where configuration of an optin clashes with another of same theme.
+* Fixed bug where broadcast was failing because of presence of boolean payload eg 'click_tracking_enabled'
+* Added a link to dismiss the leave review admin notice forever.
+* Small design change of the form builder.
+* Remove load_plugin_textdomain from core to main plugin file.
+* Reworked honeypot implementation.
+* Optimized images and added margin:0 to form optin tag.
+* MailChimp Group label is only shown if at least a group has been selected for display.
+* Removed http requests for convertkit tags and sequences in admin_init.
+* Fixed bug where new post notification wasn’t sending if constantcontact account is US due to missing postal code data.
+* Moved MC group validation script to mailoptin.js file
+
+* Added index.php to all folders to prevent directory browsing.
+* Removed close optin and close optin and reload in non-popup, slide in and notification bar types.
+* Code and performance improvements.
 
 = 2.2.0.3 =
 * Removed test files that raised security warning by VaultPress.
