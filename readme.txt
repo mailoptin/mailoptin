@@ -38,10 +38,7 @@ See the website for more info https://mailoptin.io
 * Removed http requests for convertkit tags and sequences in admin_init.
 * Fixed bug where new post notification wasn’t sending if constantcontact account is US due to missing postal code data.
 * Moved MC group validation script to mailoptin.js file
-
-* Added index.php to all folders to prevent directory browsing.
-* Removed close optin and close optin and reload in non-popup, slide in and notification bar types.
-* Code and performance improvements.
+* Code and performance improvements. MailOptin is now 10x faster.
 
 = 2.2.0.3 =
 * Removed test files that raised security warning by VaultPress.
