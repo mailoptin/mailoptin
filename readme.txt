@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building, ab test.
+Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, sendinblue, convertfox, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building, ab test.
 Requires at least: 4.5
 Tested up to: 4.9.4
-Stable tag: 2.2.1.0
+Stable tag: 2.2.2.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,39 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.2.0 =
+* Added ConvertFox integration.
+* Added SendinBlue integration.
+* Added AdBlock Detection (PRO plan)
+* Added New vs Returning visitors targeting (PRO plan)
+* Added Referrer Detection (PRO plan)
+* Fixed bug where GetResponse optin without name field was failing.
+* Remove all custom media button added by plugins and core to wp_editor.
+* Re-arrangement of display rules and page-level targeting.
+* Moved controls for hiding of note, headline, description to their panels.
+* All display triggers are now supported in all optin types.
+* Added close optin and close & reload page options to CTA actions
+* Added check to prevent sidebar <aside tag> from being included in markup when state after conversion is optin form hidden.
+* Added filters to optin form components.
+* Ensure customization save changes is publishing and not saving draft. Fixed bug in wordpress.com hosting.
+
+* Fixed bug in OptinCampaignsRepository::get_optin_campaign_ids() working incorrectly.
+* Fixed bug where columbine inpost field get overly long when CTA is activated with onclick to reveal optin.
+* Fix styling for email campaign schedule control in customizer.
+* Rebuilt how optin form style are inlined.
+* Fixed bug where configuration of an optin clashes with another of same theme.
+* Fixed bug where broadcast was failing because of presence of boolean payload eg 'click_tracking_enabled'
+* Added a link to dismiss the leave review admin notice forever.
+* Small design change of the form builder.
+* Remove load_plugin_textdomain from core to main plugin file.
+* Reworked honeypot implementation.
+* Optimized images and added margin:0 to form optin tag.
+* MailChimp Group label is only shown if at least a group has been selected for display.
+* Removed http requests for convertkit tags and sequences in admin_init.
+* Fixed bug where new post notification wasn’t sending if constantcontact account is US due to missing postal code data.
+* Moved MC group validation script to mailoptin.js file
+* Code and performance improvements. MailOptin is now 10x faster.
 
 = 2.2.1.0 =
 * New: A/B Testing of optin campaigns.
