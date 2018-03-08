@@ -19,6 +19,7 @@ See the website for more info https://mailoptin.io
 = 2.2.2.0 =
 * Added ConvertFox integration.
 * Added SendinBlue integration.
+* Added Email notification after conversion completed.
 * Added AdBlock Detection (PRO plan)
 * Added New vs Returning visitors targeting (PRO plan)
 * Added Referrer Detection (PRO plan)
