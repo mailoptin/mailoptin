@@ -31,7 +31,7 @@ See the website for more info https://mailoptin.io
 * Moved controls for hiding of note, headline, description to their panels.
 * All display triggers are now supported in all optin types.
 * Added close optin and close & reload page options to CTA actions
-* Added check to prevent sidebar <aside tag> from being included in markup when state after conversion is optin form hidden.
+* Added check to prevent sidebar 'aside' tag from being included in markup when state after conversion is optin form hidden.
 * Added filters to optin form components.
 * Ensure customization save changes is publishing and not saving draft. Fixed bug in wordpress.com hosting.
 * Swap out previous bulk activation of optin and automation to new queue system.
