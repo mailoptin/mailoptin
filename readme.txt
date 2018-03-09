@@ -25,6 +25,7 @@ See the website for more info https://mailoptin.io
 * Added Referrer Detection (PRO plan)
 * Switched from wp-admin-ajax to a custom ajax handler.
 * Fixed bug where GetResponse optin without name field was failing.
+* Fixed bug where AWeber broadcast was failing.
 * Remove all custom media button added by plugins and core to wp_editor.
 * Re-arrangement of display rules and page-level targeting.
 * Moved controls for hiding of note, headline, description to their panels.
