@@ -16,6 +16,9 @@ See the website for more info https://mailoptin.io
 
 == Changelog ==
 
+= 2.2.2.1 =
+* Fixed bug where 'Globally load optin' wasn't kicking in.
+
 = 2.2.2.0 =
 * Added ConvertFox integration.
 * Added SendinBlue integration.
