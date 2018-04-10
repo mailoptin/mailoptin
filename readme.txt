@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, mailerlite form, lead generation, sendinblue, convertfox, optin form, top bar, getresponse, getresponse360, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp newsletter, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber forms, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, drift, icegram, slide box, slide in, slidein, call to action, calls to action, cta, list building, ab test.
+Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building
 Requires at least: 4.5
-Tested up to: 4.9.4
-Stable tag: 2.2.2.1
+Tested up to: 4.9.5
+Stable tag: 2.2.3.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,21 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.3.0 =
+* Added Autoresponder feature. Send welcome email after user signup.
+* Added contextual opening of controls when optin elements are clicked.
+* Added custom css option to email template builder.
+* Added some toast notifications to the form builder to remind you of things to do.
+* Added filtering of new post notification by post tags and categories.
+* Added auto-detect and convert vimeo & youtube embed to image link.
+* Added: New post notification can now be sent to users with specific roles.
+* Improved compatibility with most WP themes in customizer.
+* Fixed bug where contextual display of integrations wasn’t properly working.
+* Fixed usage tracking not dismissing.
+* Moved success message to after conversion panel.
+* Update tinymce control to use the latest API.
+* Added filter customize/edit url.
 
 = 2.2.2.1 =
 * Fixed bug where 'Globally load optin' wasn't kicking in.
