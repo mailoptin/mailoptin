@@ -17,6 +17,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.3.0 =
+* Added Klaviyo integration
 * Added Autoresponder feature. Send welcome email after user signup.
 * Added contextual opening of controls when optin elements are clicked.
 * Added custom css option to email template builder.
@@ -24,6 +25,7 @@ See the website for more info https://mailoptin.io
 * Added filtering of new post notification by post tags and categories.
 * Added auto-detect and convert vimeo & youtube embed to image link.
 * Added: New post notification can now be sent to users with specific roles.
+* Sendy optin subscription now include leads ipaddress and referrer.
 * Improved compatibility with most WP themes in customizer.
 * Fixed bug where contextual display of integrations wasn’t properly working.
 * Fixed usage tracking not dismissing.
