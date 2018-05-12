@@ -2,8 +2,8 @@
 Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building
 Requires at least: 4.5
-Tested up to: 4.9.5
-Stable tag: 2.2.3.0
+Tested up to: 4.9.6
+Stable tag: 2.2.4.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,24 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.4.0 =
+* [GDPR] Added checkbox to optin form and save consent in ESP mostly as tags and custom field.
+* [GDPR] Added control to make name field in optin required or not
+* [GDPR] Leadbank now hook to WordPress core GDPR tools for export and erasure of personal data
+* [GDPR] Added searching support to leadbank.
+* [GDPR] Added checkbox to "Optin Campaign settings" to toggle leadbank on and off.
+* Fixed incorrect IP address label for Klaviyo integration
+* Fixed bug where Klaviyo included segment in list fetch
+* Form and email template builder URL now shortened.
+* Improve button to add new campaigns to be more visible.
+* Added notice when no connection is available in optin form builder.
+* Added optin type flag to optin name.
+* Fixed bug where sepcifying custom listing number in wp list wasn’t working.
+* Fixed usage tracking not dismissing.
+* Moved success message to after conversion panel.
+* Update tinymce control to use the latest API.
+* Added filter customize/edit url.
 
 = 2.2.3.0 =
 * Added Klaviyo integration
