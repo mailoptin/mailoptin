@@ -29,10 +29,6 @@ See the website for more info https://mailoptin.io
 * Added notice when no connection is available in optin form builder.
 * Added optin type flag to optin name.
 * Fixed bug where sepcifying custom listing number in wp list wasn’t working.
-* Fixed usage tracking not dismissing.
-* Moved success message to after conversion panel.
-* Update tinymce control to use the latest API.
-* Added filter customize/edit url.
 
 = 2.2.3.0 =
 * Added Klaviyo integration
