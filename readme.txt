@@ -3,7 +3,7 @@ Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building
 Requires at least: 4.5
 Tested up to: 4.9.6
-Stable tag: 2.2.4.0
+Stable tag: 2.2.4.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,15 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.4.1 =
+* Fixed bug where rescript sidebar theme wasn’t showing description control in form builder.
+* Restricted removal of admin notice from other plugin to just mailoptin settings pages.
+* Updated success conversion script triggered to new JS execution.
+* Name and email placeholders now available in success triggered script.
+* Fix for IP address getter.
+* [GDPR] Consent is now passed to MailChimp as custom field.
+* [GDPR] Consent is now passed to EmailOctopus as custom field.
 
 = 2.2.4.0 =
 * [GDPR] Added checkbox to optin form and save consent in ESP mostly as tags and custom field.
