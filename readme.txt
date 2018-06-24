@@ -3,7 +3,7 @@ Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, google analytics
 Requires at least: 4.5
 Tested up to: 4.9.7
-Stable tag: 2.2.4.2
+Stable tag: 2.2.5.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.5.0 =
+* New repeater integration field in optin form builder.
+* GDPR consent now switched to new consent flag added to CM API.
+* Sort connections in alphabetical order.
+* Fixed bug where gdpr checkbox note was showing when CTA is activated.
+* Fixed bug where contextual CTA control wasn’t working.
+* Fixed bug with ab test variant display
 
 = 2.2.4.2 =
 * Added filter sorting to connections.
