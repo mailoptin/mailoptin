@@ -1,9 +1,9 @@
 === MailOptin - Grow & Engage Your Email List ===
 Contributors: MailOptin
-Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, google analytics
+Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, google analytics, autochimp
 Requires at least: 4.5
-Tested up to: 4.9.7
-Stable tag: 2.2.6.0
+Tested up to: 4.9.8
+Stable tag: 2.2.7.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,21 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.7.0 =
+* New dashboard redesign. Yay! Connections is now called integrations.
+* New: Email digest of published post.
+* You can now edit automation campaign name.
+* Improve optin customization option.
+* Bug fix where name field required wasn’t hidden when name field is set to hidden.
+* Fixed issue with duplicate campaign name error in some connections.
+* Improve compatibility with nextgen gallery.
+
+* Added before main content body editor control to email automation
+* Send test email feature is now retried without header.
+* Contextual naming of connection service list label re-added.
+* Added contextual display of some controls in email campaign customizer
+* Enhance compatibility with more themes such as the popular Newspaper theme.
 
 = 2.2.6.0 =
 * Added tabs to sort controls into General and Style.
