@@ -4,10 +4,6 @@ Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant con
 Requires at least: 4.5
 Tested up to: 4.9.8
 Stable tag: 2.2.8.2
-
-= 1.2.8.1 =
-* Fixed bug with curl not working on some host
-* Fixed bug with MailChimp email automation not sending
 License: GPL-2.0+
 
 Grow and engage your email list.
