@@ -2,8 +2,8 @@
 Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, sendlane, google analytics, autochimp
 Requires at least: 4.5
-Tested up to: 4.9.8
-Stable tag: 2.2.8.2
+Tested up to: 4.9.9
+Stable tag: 2.2.8.3
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,23 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.8.3 =
+* Added Mailster Integration.
+* Moved effects control to Design panel.
+* Added support for double optin in EmailOctopus integration
+* Added new switch customizer loader method.
+* Added confirmation prompt before deleting optin and email campaigns.
+* Added after main content control to email template.
+* Added easy google font plugin compatibility.
+* Added support for categories and tags in post email digest.
+* Fixed issue where email automation was sending multiple times in same interval when incidentally there is a new post.
+* Fix issue of having to save draft first before publishing when custom fields are added to post edit screen.
+* Fix bug with leadbank not working.
+* Fixed issue with urlencode happening to urls in email campaign.
+* Deactivate cloned optin and email campaign by default.
+* If global optin is set, let never load rules also kick in.
+* Test mode now ignore display rules.
 
 = 2.2.8.2 =
 * Only return untrashed and default type list for mailpoet.
