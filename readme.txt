@@ -20,7 +20,7 @@ See the website for more info https://mailoptin.io
 * Added support for changing optin font sizes.
 * Added support to inherit theme font in optins.
 * Added support for MailChimp GDPR tool for saving consent.
-* Optin no longer load an external css stylsheet.
+* Optin no longer load an external css stylesheet.
 * Fixed bug with post digest not sending.
 * Remove quoted slash from campaign names.
 * Some performance enhancements.
