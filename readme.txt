@@ -21,6 +21,7 @@ See the website for more info https://mailoptin.io
 * Optin branding now disabled by default.
 * Better control over google fonts to load when not necessary.
 * Added class attribute support to [mo-click-launch] shortcode.
+* Improve optin themes compatibility with most WP themes.
 
 = 2.2.10.1 =
 * Fixed bug with Mailerlite subscription not working.
