@@ -17,11 +17,11 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.11.1 =
-* Fixed bug with clicklaunch shortcode not working.
-* Responsive font siz fixs for optin forms.
+* Fixed bug with click-launch shortcode not working.
+* Responsive font size fixes for optin forms.
 * Fixed a number of PHP notice errors.
 * Added filter to disable sending optin errors email.
-* Added support for tag segmentation in optin.
+* Added support for post tag display rule in optin.
 
 = 2.2.11.0 =
 * Added support for custom post type to email automations.
