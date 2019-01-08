@@ -17,8 +17,8 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.12.0 =
-* Removed optin campaigns and coversion limit (lite).
-* Added shortcode support for optin forms (lite).
+* Removed optin campaigns and coversion limit.
+* Added shortcode support for optin forms.
 * Added support for custom fields to optin forms with integration mapping.
 * Fixed bug where email automation customizer wasn't saving.
 * Made headline in optin customizer visual/text.
