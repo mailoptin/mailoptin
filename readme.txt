@@ -2,8 +2,8 @@
 Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, sendlane, google analytics, autochimp
 Requires at least: 4.6
-Tested up to: 5.0
-Stable tag: 2.2.11.2
+Tested up to: 5.0.2
+Stable tag: 2.2.12.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,23 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.12.0 =
+* Removed optin campaigns and coversion limit (lite).
+* Added shortcode support for optin forms (lite).
+* Added support for custom fields to optin forms with integration mapping.
+* Fixed bug where email automation customizer wasn't saving.
+* Made headline in optin customizer visual/text.
+* Added pushing of notification bar to the top on window resize.
+* Added shortcode support to success message.
+* Reduced inline js object added to frontend.
+* Added better explanation to re-authorize connection button.
+* Removed maipoet double optin feature. What it basically did was prevent confirmation email from being sent.
+* Subscriber name is now split into name and lastname for Mailerlite connection.
+* Updated Convertfox to Gist.
+* Fixed bug with mailchimp interest user input.
+* Added sendinblue list sync where by user are not removed from their previous joined list.
+* Fix for mailchimp GDPR optin consent not working.
 
 = 2.2.11.2 =
 * Sendinblue optin fix when automation is active.
