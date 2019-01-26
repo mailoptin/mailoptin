@@ -2,8 +2,8 @@
 Contributors: MailOptin
 Tags: popup, wordpress popup, popup, newsletter, mailchimp, aweber, constant contact, campaign monitor, convertkit, activecampaign, drip, sendy, mailerlite, sendinblue, klaviyo, convertfox, ab test, a/b, split test, autoresponder, mailerlite form, lead generation, optin form, top bar, getresponse, lightbox, modal, optin, subscribe, email list, lead capture, sidebar widget, sidebar form, emailoctopus, exit-intent, pop up, exit intent, elementor, mailchimp form, mailchimp plugin, mailchimp signup form, widget form, subscribe form, new post notification, constantcontact, mailpoet, aweber form, aweber signup form, sendy form, mailing list, opt-in, hello bar, hellobar, scroll trigger, newsletters, optinmonster, icegram, slide box, adblock, referrer, referrer detection, email notification, adblock detector, slide in, slidein, call to action, cta, list building, sendlane, google analytics, autochimp
 Requires at least: 4.6
-Tested up to: 5.0.2
-Stable tag: 2.2.12.0
+Tested up to: 5.0.3
+Stable tag: 2.2.12.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,11 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.12.1 =
+* Fixed issue where core wasn’t sending new post notification in some rare cases.
+* Return error message when trying to map empty custom fields.
+* Fixed sendinblue bug where email address belonging to another list failed to be subscribed.
 
 = 2.2.12.0 =
 * Removed optin campaigns and coversion limit.
