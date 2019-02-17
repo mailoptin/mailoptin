@@ -18,7 +18,7 @@ See the website for more info https://mailoptin.io
 
 = 2.2.12.2 =
 * Added support for windows hosting.
-* Improved contextual panel display form customizer.
+* Improved contextual panels display in form customizer.
 * Added device (mobile, tablet or desktop) targeting display rule.
 * Added custom field support to leadbank exports
 
