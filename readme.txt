@@ -17,10 +17,12 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.12.2 =
-* Added support for windows hosting.
-* Improved contextual panels display in form customizer.
 * Added device (mobile, tablet or desktop) targeting display rule.
-* Added custom field support to leadbank exports
+* Added support for windows hosting.
+* Added advance settings to name field for ESP mapping.
+* Made all tinymce control text/visual.
+* Improved contextual panels display in form customizer.
+* Added custom field support to leadbank exports.
 
 = 2.2.12.1 =
 * Fixed issue where core wasn’t sending new post notification in some rare cases.
