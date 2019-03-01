@@ -18,6 +18,7 @@ See the website for more info https://mailoptin.io
 
 = 2.2.13.0 =
 * Design refresh of the dashboard.
+* Added option for custom email template for automations (code your own).
 * Added tag support to MailChimp optin.
 * Added polylang integration.
 * Added leadbank only support for Elementor form.
