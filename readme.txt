@@ -19,6 +19,7 @@ See the website for more info https://mailoptin.io
 = 2.2.13.2 =
 * Fixed bug with custom taxonomies settings not saving in email automation.
 * Fixed issues with email automation custom template shortcode tags not working.
+* Fixed bug where post with full content wasn't triggering email automation.
 * Fixed issue where ESP with default static fields returned empty because no custom user created field was found.
 
 = 2.2.13.1 =
