@@ -18,10 +18,10 @@ See the website for more info https://mailoptin.io
 
 = 2.2.15.0 =
 * Added new optin themes.
+* Added ability to replace the default fields with a shortcode and/or HTML content.
 * Added query string targeting display rule.
 * Added feature to hide optins on urls with the mohide=true query string.
 * Added categories and tax support to [posts-loop] email digest shortcode.
-* Added ability to replace the default fields with a shortcode and/or HTML content.
 * Allow users access to MailOptin with with manage_mailoptin capability.
 * Fixed bug where optin theme customizer config override another theme.
 * Fixed compatibility with Windows server.
