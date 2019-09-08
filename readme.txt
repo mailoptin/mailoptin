@@ -16,6 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.19.1 =
+* Added display of post meta to email template settings. E.g post author, date published and post categories.
 * Added filter to disable emogrify.
 * Fix: do not enqueue recaptcha when keys are not present.
 * Fixed bug where preview post title wasn’t used when test email is sent
