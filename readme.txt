@@ -2,7 +2,7 @@
 Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
 Requires at least: 4.6
 Tested up to: 5.2
-Stable tag: 2.2.19.1
+Stable tag: 2.2.20.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.20.0 =
+* Added Zoho Campaigns integration.
+* Added date custom field to optin forms.
+* Added: Restrict to post authors added in email automation.
+* Added system fonts to list of font selection for custom optin fields.
+* Fixed bug where Divi backend builder wasn’t triggering new post automation.
+* Added nonce check when saving oauth credentials.
 
 = 2.2.19.1 =
 * Added display of post meta to email template settings. E.g post author, date published and post categories.
