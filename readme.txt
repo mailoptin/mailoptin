@@ -1,5 +1,5 @@
 === MailOptin - Grow & Engage Your Email List ===
-Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
+Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, zoho, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
 Requires at least: 4.6
 Tested up to: 5.2
 Stable tag: 2.2.20.0
