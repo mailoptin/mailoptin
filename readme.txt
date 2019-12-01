@@ -18,7 +18,7 @@ See the website for more info https://mailoptin.io
 = 2.2.22.1 =
 * Upgraded klaviyo integration to new list API v2.
 * Fixed: sendy bug where user subscription wasn’t working for Sendy v4.0.3.3.
-* Fixed bug where scheduled forms couldn’t be close and ignore display rules.
+* Fixed bug where scheduled forms couldn't be close and ignore display rules.
 
 = 2.2.22.0 =
 * Added: New email builder for crafting one-off newsletters to subscribers.
