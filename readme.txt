@@ -2,7 +2,7 @@
 Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, zoho, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
 Requires at least: 4.6
 Tested up to: 5.3
-Stable tag: 2.2.22.0
+Stable tag: 2.2.22.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,12 +15,17 @@ See the website for more info https://mailoptin.io
 
 == Changelog ==
 
+= 2.2.22.1 =
+* Upgraded klaviyo integration to new list API v2.
+* Fixed: sendy bug where user subscription wasn’t working for Sendy v4.0.3.3.
+* Fixed bug where scheduled forms couldn’t be close and ignore display rules.
+
 = 2.2.22.0 =
 * Added: New email builder for crafting one-off newsletters to subscribers.
 * Post email digest preview now match the criteria selected.
 * Fixed custom field reordering in optin not working.
 * Fixed title naming for email campaigns.
-* Fixed: scheduling now more accurate by forcing strtotime to use utc.
+* Fixed: scheduling now more accurate by forcing strtotime to use UTC.
 
 = 2.2.21.0 =
 * Added and made WP HTTP API the default http client.
