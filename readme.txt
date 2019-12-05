@@ -2,7 +2,7 @@
 Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, zoho, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
 Requires at least: 4.6
 Tested up to: 5.3
-Stable tag: 2.2.22.1
+Stable tag: 2.2.23.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,10 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.23.0 =
+* Added Emma email marketing integration.
+* Fixed bug where adding new custom field didn’t work unless on reload.
 
 = 2.2.22.1 =
 * Upgraded klaviyo integration to new list API v2.
