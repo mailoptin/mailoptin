@@ -1,8 +1,8 @@
 === MailOptin - Grow & Engage Your Email List ===
-Tags: popup, form, newsletter, email, mailchimp, wordpress popup, aweber, constantcontact, campaignmonitor, campaign monitor, convertkit, autoresponder, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, zoho, ontraport, verticalresponse, vertical response, moosend, convertfox, sendlane, lead generation, optin form, getresponse, lightbox, modal, optin, emailoctopus, pop up, exit intent, subscribe form, constant contact, mailster, mailing list, opt-in, scroll trigger, slide in, list building
+Tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.3
-Stable tag: 2.2.23.1
+Stable tag: 2.2.24.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,19 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.24.0 =
+* Added Zoho CRM integration.
+* Added youtube-nocookie.com embed support for email.
+* Added double optin support for Mailjet.
+* Added birthday and date fields support for Mailchimp integration.
+* Added support for Campaign Monitor multiselect field.
+* Fixed issue with youtube embed to image link not working on some hosting.
+* Fixed issue where 2 same form on the same page wouldn’t work.
+* Fixed bug where email digest wasn’t working for cloned campaigns.
+* Fixed Mailchimp group display bug in liatris optin themes.
+* Replaced fontawesome with dashicons in admin dashboard.
+* Pikaday date format changed to Y-m-d.
 
 = 2.2.23.1 =
 * post-date shortcode in email automation now support format attribute.
