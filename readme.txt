@@ -21,7 +21,7 @@ See the website for more info https://mailoptin.io
 * Added custom field support to Gist.
 * Added filter to admin email that receives test emails.
 * Added GA conversion tracking on CTA click to URL.
-* added defatult attribute for post feature image shortcode.
+* added default attribute for post feature image shortcode.
 * Font weight and styling fixes for a number of optin themes.
 * Fixed bug where contact without subscription status failed to be subscribed in Mailchimp.
 * Fixed bug where ontraport subscription was failing.
