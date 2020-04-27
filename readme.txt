@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.27.5 =
-* Added Ninja Forms integration
+* Added Ninja Forms integration.
 * Added conversion tracking of custom html.
 
 = 2.2.27.4 =
