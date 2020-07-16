@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.29.3 =
-* Fixed bug where Zohocampaign wasn’t working for non-us datacenters.
+* Fixed bug where Zoho Campaigns wasn't working for non-us data-centers.
 * Fixed bug where sending emails to large subscribers was failing.
 * Improved compatibility with jQuery 3.x.
 * Show a prompt before deleting any item.
