@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.4
-Stable tag: 2.2.29.3
+Stable tag: 2.2.29.4
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,18 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.29.4 =
+* Added Sendfox integration.
+* Added box-shadow to all slide-ins.
+* Added alert to check if title is filled when creating optin and automations.
+* Fixed bug where an A/B tst open still shows a variant even when a variant was subcribed to or closed.
+* Fixed bug where optin stats weren't resetted when AB test variants are created.
+* Fixed bug where a list ID that is zero stopped optin from adding subscribers.
+* Fixed issue where modal to create fb audience wasn’t working.
+* Fixed bug where IP address might return ::1.
+* Updated rescript inpost screenshot.
+* Increased limit of mailjet contact properties fetched.
 
 = 2.2.29.3 =
 * Fixed bug where Zoho Campaigns wasn't working for non-us data-centers.
