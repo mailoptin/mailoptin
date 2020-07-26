@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.29.4 =
-* Added Sendfox integration.
+* Added SendFox integration.
 * Added box-shadow to all slide-ins.
 * Added alert to check if title is filled when creating optin and automations.
 * Fixed bug where an A/B tst open still shows a variant even when a variant was subcribed to or closed.
