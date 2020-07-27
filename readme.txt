@@ -23,6 +23,7 @@ See the website for more info https://mailoptin.io
 * Fixed bug where optin stats weren't resetted when AB test variants are created.
 * Fixed bug where a list ID that is zero stopped optin from adding subscribers.
 * Fixed issue where modal to create fb audience wasn’t working.
+* Fixed bug where Zoho Campaigns wasn't working for US data-center users.
 * Fixed bug where IP address might return ::1.
 * Updated rescript inpost screenshot.
 * Increased limit of mailjet contact properties fetched.
