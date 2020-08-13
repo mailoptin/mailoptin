@@ -17,7 +17,6 @@ See the website for more info https://mailoptin.io
 
 = 2.2.30.1 =
 * Added country custom optin field.
-* Added password custom field.
 * Fixed issue where fetching tags via ajax wasn’t working.
 * Renamed Infusionsoft label.
 
