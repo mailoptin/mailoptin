@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.5
-Stable tag: 2.2.30.2
+Stable tag: 2.2.30.3
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.30.3 =
+* Added option to disable google font loading.
+* Fixed issue where vimeotoimg wasn’t working for Vimeo.
+* Added filters to all post_content email campaign functions.
+* Added cache implementation on expensive queries.
+* Renamed newsletter to broadcast.
+* Improved conversion tracking accuracy
 
 = 2.2.30.2 =
 * UI compatibility with WP 5.5
