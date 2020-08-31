@@ -21,7 +21,7 @@ See the website for more info https://mailoptin.io
 * Added filters to all post_content email campaign functions.
 * Added cache implementation on expensive queries.
 * Renamed newsletter to broadcast.
-* Improved conversion tracking accuracy
+* Improved conversion tracking accuracy.
 
 = 2.2.30.2 =
 * UI compatibility with WP 5.5
