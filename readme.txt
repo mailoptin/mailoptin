@@ -17,7 +17,7 @@ See the website for more info https://mailoptin.io
 
 = 2.2.30.4 =
 * Added Jilt integration.
-* Renamed GetResponse Enterprise to GetResponse MAX
+* Renamed GetResponse Enterprise to GetResponse MAX.
 * Fixed bug where google fonts were disabled by default.
 * Fixed bug where GDPR eraser wasn't returning a response.
 
