@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.5
-Stable tag: 2.2.31.1
+Stable tag: 2.2.31.2
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,10 +15,15 @@ See the website for more info https://mailoptin.io
 
 == Changelog ==
 
+= 2.2.31.2 =
+* Added FluentCRM integration.
+* Switched from wp_redirect to wp_safe_redirect for 302 redirects.
+* Improve oauth integrations token refreshing
+
 = 2.2.31.1 =
 * Added weMail integration.
 * Fixed bug where customizer preview wasn't showing changes being made.
-* FFixed bug where country field wasn’t showing unless an alpha code type is selected.
+* Fixed bug where country field wasn’t showing unless an alpha code type is selected.
 
 = 2.2.31.0 =
 * Added Formidable Forms integration.
