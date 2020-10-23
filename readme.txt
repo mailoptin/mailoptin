@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.32.0 =
-* Added Constant Constact API v3 which include support for custom fields.
+* Added Constant Contact API v3 which include support for custom fields.
 * Fixed issue where custom html forms caused customizer saving to fail.
 * Fixed issue where sendinblue view in browser and unsubscribe links weren't working.
 * Added email notification when there is an email campaign error.
