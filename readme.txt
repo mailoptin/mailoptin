@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.5
-Stable tag: 2.2.32.0
+Stable tag: 2.2.33.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,12 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.33.0 =
+* Added middle of content optin placement.
+* Added double-optin support to Sendinblue.
+* Email digest: Added support for start (and implicitly end) day of a week configured in WordPress settings
+* Use the more reliable wp_timezone_string to get timezone/offset.
 
 = 2.2.32.0 =
 * Added Constant Contact API v3 which include support for custom fields.
