@@ -17,7 +17,6 @@ See the website for more info https://mailoptin.io
 
 = 2.2.33.1 =
 * Fixed bugs with double optin in Sendinblue integration.
-* Fixed bug where users get an error when the double optin option is not enabled.
 * Added filter "mo_optin_form_set_font_families_to_inherit" to make all optin font families a theme font.
 
 = 2.2.33.0 =
