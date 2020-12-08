@@ -17,8 +17,11 @@ See the website for more info https://mailoptin.io
 
 = 2.2.34.0 =
 * Added more first/last name sendinblue contact attributes.
+* Added Selected Users to WordPress Registered Users Integration.
 * Switched to using wp_after_insert_post hook for new post notification automation.
 * Lazy-load chosenjs customizer options.
+* PHP 8 compatibility improvements.
+* Resolve css conflicts with other plugins eg shortpixel.
 
 = 2.2.33.1 =
 * Fixed bugs with double optin in Sendinblue integration.
