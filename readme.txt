@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.34.1 =
-* Added convestion page, referrer url and IP address data to ESP custom fields.
+* Added conversion page, referrer url and IP address data to ESP custom fields.
 * Fix layout breakage caused by unclosed p tag.
 * Fixed issue where elementorjs would result to undefined function error.
 * Fixed sendinblue timezone error when sending email campaigns.
