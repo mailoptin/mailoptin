@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.6
-Stable tag: 2.2.34.1
+Stable tag: 2.2.34.2
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.34.2 =
+* Added featured image size filter to posts.
+* Fixed bug where split test variants was hidden even when state after conversion is set to optin shown.
+* Change default optin success message to exclude "Please check your email for further instructions."
+* Use enqueue_block_editor_assets instead for block registation instead of init.
+* Fixed bug where split test pausing wasn’t working when there's more than one variant.
+* Implement filter to remove new and returning visitors cookies.
 
 = 2.2.34.1 =
 * Added conversion page, referrer url and IP address data to ESP custom fields.
