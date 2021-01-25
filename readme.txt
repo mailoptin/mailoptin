@@ -20,6 +20,7 @@ See the website for more info https://mailoptin.io
 * Fixed bug where images wasn’t included in automation emails.
 * Fixed adblock detection not working.
 * Fixed bug where notification bar was covering header on mobile.
+* Upgraded Facebook graph API to 9.0.
 
 = 2.2.34.2 =
 * Added featured image size filter to posts.
