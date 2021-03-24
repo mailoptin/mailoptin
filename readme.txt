@@ -16,7 +16,8 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.35.2 =
-* Fixed security issue in our elementor integration.
+* Fixed security issue in our Elementor integration.
+* Extra security hardening.
 
 = 2.2.35.1 =
 * Added double-optin support to CleverReach integration.
