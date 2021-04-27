@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.7
-Stable tag: 2.2.35.4
+Stable tag: 2.2.36.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,15 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io
 
 == Changelog ==
+
+= 2.2.36.0 =
+* Added Forminator integration.
+* Fixed bug where our Gutenberg integration broke the editor.
+* Fixed cleverreach tagging not working for external forms.
+* Added option to send test email to custom email addresses.
+* Fixed issue where {{date}} wasn’t getting parsed in email campaigns.
+* Fixed the splitting of multiples names into firstname and lastnames.
+* Fixed Zoho Campaigns token refresh not working.
 
 = 2.2.35.4 =
 * Fixed issue where names with more than two words wasn't correctly synced to ESP.
