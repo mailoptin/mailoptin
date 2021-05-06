@@ -16,6 +16,7 @@ See the website for more info https://mailoptin.io
 == Changelog ==
 
 = 2.2.36.1 =
+* Fixed required fields validation in Constant Contact email integration.
 * Fixed bug where leads where accidentally deleted.
 * Forminator integration bug fixes.
 
