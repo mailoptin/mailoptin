@@ -19,6 +19,7 @@ See the website for more info https://mailoptin.io
 * Added: Convertkit emailing support.
 * Improvements to Constant Contact v3 token refreshing.
 * Fixed before&after content editor in email campaign not working.
+* Fixed incompatibility with upcoming WP 5.8
 
 = 2.2.37.2 =
 * Improved accuracy of detecting when cron is not working.
