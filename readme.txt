@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.8
-Stable tag: 2.2.39.1
+Stable tag: 2.2.39.2
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.39.2 =
+* Added support for changing facebook API version from a UI.
+* Fixed broken images in email body.
+* Improved handling of mailjet API errors.
+* Nuked every optin campaign ID that is 0 data retrieval.
+* Fixed wp listing UI issue.
+* Fixed bug where some Sendinblue list was missing.
 
 = 2.2.39.1 =
 * Fixed bug where mailoptin broke many ajax requests.
