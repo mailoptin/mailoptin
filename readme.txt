@@ -17,6 +17,7 @@ See the website for more info https://mailoptin.io/
 
 = 2.2.40.0 =
 * New: "WooCommerce Added to cart" trigger.
+* New: "WooCommerce Conditions" display rule.
 * Enhancement: Only send email after user registration if password isn't set.
 * Updated JS libraries.
 * Fixed bug where all mailerlite groups weren’t returned.
