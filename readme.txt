@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.40.0 =
-* New: "WooCommerce Added to cart" trigger.
+* New: [WooCommerce Added to cart](https://mailoptin.io/woocommerce-targeting/?ref=changelog) trigger.
 * New: "WooCommerce Conditions" display rule.
 * Enhancement: Only send email after user registration if password isn't set.
 * Updated JS libraries.
