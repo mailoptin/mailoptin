@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.8
-Stable tag: 2.2.39.2
+Stable tag: 2.2.40.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,15 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.40.0 =
+* New: "WooCommerce Added to cart" trigger.
+* Enhancement: Only send email after user registration if password isn't set.
+* Updated JS libraries.
+* Fixed bug where all mailerlite groups weren’t returned.
+* Fixed bug where mailchimp merge tags weren’t working in custom email template.
+* Added filters to disable email notification to user and admin after registration.
+* Added filter to disable VideoToImage.
 
 = 2.2.39.2 =
 * Added support for changing facebook API version from a UI.
