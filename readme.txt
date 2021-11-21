@@ -22,7 +22,7 @@ See the website for more info https://mailoptin.io/
 * HubSpot improvement: lead status, ownership and lifecycle stage settings added.
 * Improved caching efficiency of integrations data.
 * Reduced Cleverreach access token expiration by 2 weeks to avoid refresh error.
-* Remove empty paragraph tags and visual composer tags.
+* Remove empty paragraph tags and visual composer tags in email campaigns.
 * Show feature image alt of posts on email campaigns.
 
 = 2.2.40.1 =
