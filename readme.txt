@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 5.9
-Stable tag: 2.2.41.0
+Stable tag: 2.2.42.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,13 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.42.0 =
+* New feature [optin sound effect](https://mailoptin.io/?p=32472).
+* Added 'mo-optin-success-state' class to optin form when a user subscribes.
+* New HubSpot app for premium users introduced.
+* Increased HubSpot cache expiration time.
+* Fixed range slider customizer control.
 
 = 2.2.41.0 =
 * Added comma separated CSS Selector when content locker is active.
