@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.45.0 =
-* Added support for new Constant Contact v3 integration endpoints - REAUTHROIZE URGENTLY.
+* Added support for new Constant Contact v3 integration endpoints - REAUTHORIZE URGENTLY.
 * Added feature to set custom field value during field mapping.
 * Added new sidebar and inpost optin themes
 * Fixed optin sound issue.
