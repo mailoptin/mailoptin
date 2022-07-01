@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.6
 Tested up to: 6.0
-Stable tag: 2.2.48.0
+Stable tag: 2.2.49.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.49.0 =
+* Added [Comment Form Optin](https://mailoptin.io/article/wordpress-comment-form-email-subscription/?ref=prochangelog).
+* Added [User Registration Optin](https://mailoptin.io/article/user-registration-optin-mailchimp-aweber-more/?ref=prochangelog).
+* Added [MemberPress email campaign](https://mailoptin.io/article/send-wordpress-emails-memberpress-members/?ref=prochangelog).
+* Fixed PHP notice caused by WP_User_Query being called with an argument that is deprecated.
+* Added Japan Zoho DC support.
+* Fixed NewsMan email campaign bug with encoding.
 
 = 2.2.48.0 =
 * Added [MemberPress integration](https://mailoptin.io/article/memberpress-mailchimp-aweber-more/?ref=prochangelog).
