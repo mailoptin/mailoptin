@@ -18,7 +18,7 @@ See the website for more info https://mailoptin.io/
 = 2.2.49.0 =
 * Added [Comment Form Optin](https://mailoptin.io/article/wordpress-comment-form-email-subscription/?ref=prochangelog).
 * Added [User Registration Optin](https://mailoptin.io/article/user-registration-optin-mailchimp-aweber-more/?ref=prochangelog).
-* Added [MemberPress email campaign](https://mailoptin.io/article/send-wordpress-emails-memberpress-members/?ref=prochangelog).
+* Added [MemberPress email campaign](https://mailoptin.io/article/send-wordpress-emails-memberpress-members/?ref=prochangelog) support.
 * Fixed PHP notice caused by WP_User_Query being called with an argument that is deprecated.
 * Added Japan Zoho DC support.
 * Fixed NewsMan email campaign bug with encoding.
