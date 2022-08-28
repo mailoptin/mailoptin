@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.0
-Stable tag: 2.2.50.0
+Stable tag: 2.2.51.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,9 +15,18 @@ See the website for more info https://mailoptin.io/
 
 == Changelog ==
 
+= 2.2.51.0 =
+* Added [WooCommerce](https://mailoptin.io/article/send-emails-woocommerce-customers-wordpress/?ref=prochangelog) email support.
+* Added [WooCommerce Subscriptions](https://mailoptin.io/article/send-emails-woocommerce-subscriptions/?ref=prochangelog) email support.
+* Added [WooCommerce Memberships](https://mailoptin.io/article/send-emails-woocommerce-memberships/?ref=prochangelog) email support.
+* Added sending emails to all [memberpress members](https://mailoptin.io/article/send-wordpress-emails-memberpress-members/?ref=prochangelog).
+* Added to New post notification, support for MemberPress author restriction.
+* jQuery syntax update.
+* Fixed bug where select2 repopulation didn’t work for some fields.
+
 = 2.2.50.0 =
 * Added [Easy Digital Downloads integration](https://mailoptin.io/article/edd-mailchimp-aweber-more/?ref=prochangelog).
-* Added [Cookie Optin Targeting](https://mailoptin.io/article/target-visitors-based-browser-cookies//?ref=prochangelog) support.
+* Added [Cookie Optin Targeting](https://mailoptin.io/article/target-visitors-based-browser-cookies/?ref=prochangelog) support.
 * Added capability and nonce check to optin cache clearing.
 * Fixed: Implicit conversion from float 1.0E+20 to int loses precision.
 * Added filter to campaign error email address.
