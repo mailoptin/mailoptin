@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.1
-Stable tag: 2.2.53.0
+Stable tag: 2.2.54.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,13 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.54.0 =
+* Added sending emails to [LearnDash users](https://mailoptin.io/article/send-wordpress-emails-learndash-users/?ref=prochangelog)
+* Fixed bug where empty images when post doesn't have feature image was in email.
+* Fixed email content with broken html.
+* Fixed bug where VTI was including p tag in matching link.
+* Added missing error log link for MailPoet, Mailster, FCRM.
 
 = 2.2.53.0 =
 * New: [send emails to Easy Digital Downloads customers](https://mailoptin.io/article/send-emails-edd-customers-wordpress/).
