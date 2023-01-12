@@ -17,6 +17,7 @@ See the website for more info https://mailoptin.io/
 
 = 2.2.54.1 =
 * Added WPML compatibility.
+* Fixed bug where emails to membership users was sent to all users regardless of membership status.
 * Ensure email is valid before attempt to subscribe.
 * Fixed couple of XSS on admin settings page
 * Restrict admin notices to only administrators.
