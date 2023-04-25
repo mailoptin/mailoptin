@@ -21,7 +21,7 @@ See the website for more info https://mailoptin.io/
 * Fixed bug with sendgrid api failing when creating campaigns.
 * Fixed issue with checkbox not showing correctly in forminator addon settings page.
 * Fixed bug where forminator conversion page data was invalid.
-* Fixed double optin issue and conversion page url bug in forminator quiz integration.
+* Fixed double optin issue and conversion page url bug in forminator integration.
 * Ensure conversion page is correctly populated with Gravity forms, Formidable Forms & WPForms integration.
 
 = 2.2.58.0 =
