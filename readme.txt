@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.2
-Stable tag: 2.2.58.0
+Stable tag: 2.2.58.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,15 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.58.1 =
+* Fixed bug where WooCommerce custom field data wasn't retrieved during WC optin.
+* Fixed bug with falsey error emails going out.
+* Fixed bug with sendgrid api failing when creating campaigns.
+* Fixed issue with checkbox not showing correctly in forminator addon settings page.
+* Fixed bug where forminator conversion page data was invalid.
+* Fixed double optin issue and conversion page url bug in forminator quiz integration.
+* Ensure conversion page is correctly populated with Gravity forms, Formidable Forms & WPForms integration.
 
 = 2.2.58.0 =
 * Added integration with new MailerLite platform.
