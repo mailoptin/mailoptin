@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.2
-Stable tag: 2.2.60.0
+Stable tag: 2.2.61.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,10 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.61.0 =
+* Added [Microsoft Dynamics 365](https://mailoptin.io/article/create-microsoft-dynamics-365-wordpress-forms-capture-leads/) integration.
+* Fixed conflicts with the OceanWP theme.
 
 = 2.2.60.0 =
 * Added [Salesforce](https://mailoptin.io/article/create-salesforce-wordpress-forms-capture-leads/) integration.
