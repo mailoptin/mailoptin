@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.2
-Stable tag: 2.2.61.0
+Stable tag: 2.2.62.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,12 @@ Best lead Generation, Email Automation & Newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.62.0 =
+* Added [WooCommerce Memberships Optin](https://mailoptin.io/article/woocommerce-memberships-mailchimp-aweber-more/) integration.
+* Added ability to send test emails of draft posts.
+* Fixed bug with disabling double optin in WooCommerce integration not working.
+* Fixed bug with undoing field mapping not working in WooCommerce subscribe integration.
 
 = 2.2.61.0 =
 * Added [Microsoft Dynamics 365](https://mailoptin.io/article/create-microsoft-dynamics-365-wordpress-forms-capture-leads/) integration.
