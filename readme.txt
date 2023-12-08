@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
 Tested up to: 6.4
-Stable tag: 2.2.65.0
+Stable tag: 2.2.65.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.65.1 =
+* Added support for restricting email based on taxonomies attached to 'post' post-type.
+* Added $error_message param to mo_optin_form_email_error_email_subject filter.
+* Fixed bug with Brevo merge tags not working in email campaigns.
+* Remove users from the unsubscribe list when deleted.
 
 = 2.2.65.0 =
 * Added [Mailgun](https://mailoptin.io/article/connect-wordpress-mailgun/) integration.
