@@ -1,8 +1,8 @@
 === MailOptin - Grow & Engage Your Email List ===
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 4.9
-Tested up to: 6.4
-Stable tag: 2.2.67.0
+Tested up to: 6.5
+Stable tag: 2.2.67.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.67.1 =
+* Increase optin campaign name limit to 20 chars
+* Added alt to close icon in optin popups.
+* Fixed fatal error: Uncaught Error: Cannot assign an empty string to a string offset.
+* Fixed bug where Klaviyo only returned 10 lists
 
 = 2.2.67.0 =
 * Added [Flodesk integration](https://mailoptin.io/article/connect-wordpress-flodesk/).
