@@ -1,8 +1,8 @@
 === MailOptin - Grow & Engage Your Email List ===
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
-Requires at least: 4.9
+Requires at least: 5.8
 Tested up to: 6.5
-Stable tag: 2.2.69.1
+Stable tag: 2.2.70.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,10 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.70.0 =
+* Added [Elastic Email integration](https://mailoptin.io/article/connect-wordpress-elastic-email/).
+* Improved Block Editor support.
 
 = 2.2.69.1 =
 * Fixed bug where Beehiiv integration without selected tier didn't work.
