@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 5.8
 Tested up to: 6.6
-Stable tag: 2.2.70.2
+Stable tag: 2.2.70.3
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,13 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.70.3 =
+* Updated Brevo api from sendinblue.com to brevo.com.
+* Improved Paid Memberships Pro checkout integration.
+* Enhancement: Automically display price in emails when Woo is active and post is a product.
+* Fixed bug where Zoho Campaigns Canada DC accounts didn't work.
+* Fixed incompatibility with OceanWP theme.
 
 = 2.2.70.2 =
 * Added content-type header to PATCH webhook request
