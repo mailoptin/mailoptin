@@ -16,9 +16,9 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.70.3 =
-* Updated Brevo api from sendinblue.com to brevo.com.
+* Updated Brevo API from sendinblue.com to brevo.com.
 * Improved Paid Memberships Pro checkout integration.
-* Enhancement: Automically display price in emails when Woo is active and post is a product.
+* Enhancement: Automatically display price in emails when Woo is active and post is a product.
 * Fixed bug where Zoho Campaigns Canada DC accounts didn't work.
 * Fixed incompatibility with OceanWP theme.
 
