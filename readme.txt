@@ -16,7 +16,7 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.71.0 =
-* Added [WS Form integration](https://mailoptin.io/article/ws-form-mailchimp-aweber-more).
+* Added [WS Form integration](https://mailoptin.io/article/ws-form-mailchimp-aweber-more/).
 * Fixed: PHP Warning: Undefined array key "placeholder"
 * Reworked how asset URLs in the plugin are dynamically retrieved.
 * Fixed bug where rate-limit counter didn’t reset after successful token refresh.
