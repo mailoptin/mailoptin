@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 5.8
 Tested up to: 6.6
-Stable tag: 2.2.70.4
+Stable tag: 2.2.71.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.71.0 =
+* Added [WS Form integration](https://mailoptin.io/article/ws-form-mailchimp-aweber-more).
+* Fixed: PHP Warning: Undefined array key "placeholder"
+* Reworked how asset URLs in the plugin are dynamically retrieved.
+* Fixed bug where rate-limit counter didn’t reset after successful token refresh.
 
 = 2.2.70.4 =
 * Added more donation data for field mapping in GiveWP integration.
