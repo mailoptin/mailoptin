@@ -2,7 +2,7 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 5.8
 Tested up to: 6.7
-Stable tag: 2.2.72.2
+Stable tag: 2.2.73.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -14,6 +14,14 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.73.0 =
+* Added [Google Sheets integration](https://mailoptin.io/article/connect-wordpress-with-google-sheet/).
+* Added [Encharge integration](https://mailoptin.io/article/connect-wordpress-encharge/).
+* Fixed fatal error caused in our Ninja forms integration.
+* Fixed fatal error in Forminator integration.
+* Fixed bug with email digest formatting in email campaign.
+* Fixed bug with Leads exporting not working.
 
 = 2.2.72.2 =
 * Added filter to email campaign email subject.
