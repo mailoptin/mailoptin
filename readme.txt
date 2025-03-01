@@ -1,6 +1,7 @@
 === MailOptin - Grow & Engage Your Email List ===
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 5.8
+Requires PHP: 7.3
 Tested up to: 6.7
 Stable tag: 2.2.73.0
 License: GPL-2.0+
