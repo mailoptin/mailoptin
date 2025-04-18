@@ -2,8 +2,8 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 5.8
 Requires PHP: 7.4
-Tested up to: 6.7
-Stable tag: 2.2.73.1
+Tested up to: 6.8
+Stable tag: 2.2.73.2
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,15 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.73.2 =
+* Display active integrations first.
+* Added option to prevent ESC key from closing a popup.
+* Added setting to disable opt-in error emails.
+* Added link to send draft broadcasts from the listing page.
+* Added caching to Highlevel api calls.
+* Excluded all api keys not found errors from logging.
+* Fixed bug where invalid beehiiv subscription could be considered valid.
 
 = 2.2.73.1 =
 * Added WooCommerce block checkout support for optin checkbox.
