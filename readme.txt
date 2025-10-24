@@ -17,7 +17,6 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.75.3 =
-* Improved background processing of email campaigns.
 * Fixed email campaign errors getting duplicated.
 
 = 2.2.75.2 =
