@@ -2,8 +2,8 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 6.0
 Requires PHP: 7.4
-Tested up to: 6.8
-Stable tag: 2.2.75.4
+Tested up to: 6.9
+Stable tag: 2.2.76.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,16 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.76.0 =
+* Added Mailercloud email marketing integration.
+* Improved admin UI.
+* Added Cloudflare Turnstile integration
+* Added Background processing of external optin.
+* Fixed fatal error with cloning optin.
+* Fixed fatal error with optin titles containing % in charts.
+* Fixed bug where Sender integration did not fetch all lists.
+* Fixed bug where Flodesk integration didn't return all segments.
 
 = 2.2.75.4 =
 * Upgraded HubSpot integration fully to v3 API.
