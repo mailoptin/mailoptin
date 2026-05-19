@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 6.9
-Stable tag: 2.2.77.0
+Stable tag: 2.2.77.1
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.77.1 =
+* Added column support for posts in email template.
+* Updated Klaviyo API to version 2026-04-15
+* Improved email template support for Outlook.
+* Fixed subscription bug in Brevo on duplicate contact.
 
 = 2.2.77.0 =
 * Added SendPulse email marketing integration.
