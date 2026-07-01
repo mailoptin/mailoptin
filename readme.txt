@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.0
-Stable tag: 2.2.77.3
+Stable tag: 2.2.78.0
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,10 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.78.0 =
+* Added [Copper CRM](https://mailoptin.io/article/connect-wordpress-copper-crm/) integration.
+* Fixed security issue where a non-whitelisted option could be used as a list-subscription field value.
 
 = 2.2.77.3 =
 * Improved PHP 8.5 support.
