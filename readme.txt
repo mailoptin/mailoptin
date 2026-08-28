@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.0
-Stable tag: 2.2.78.2
+Stable tag: 2.2.78.3
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -16,8 +16,13 @@ See the website for more info https://mailoptin.io/
 
 == Changelog ==
 
-= 2.2.78.2 =
+= 2.2.78.3 =
 * Fixed Fatal PHP error when sending.
+
+= 2.2.78.2 =
+Improved security of license upgrader.
+Upgraded internal PHP dependencies.
+Added mo_leadbank_lead_data filter to lead bank payload.
 
 = 2.2.78.1 =
 * Fixed XSS in optin block.
