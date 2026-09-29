@@ -2,8 +2,8 @@
 tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campaignmonitor, campaign monitor, convertkit, contact form, activecampaign, drip, sendy, hubspot, mailerlite, sendinblue, klaviyo, mailjet, ontraport, salesforce, constantcontact, verticalresponse, vertical response, zoho, zoho crm, zoho campaigns, moosend, godaddy, getgist, sendlane, myemma, mailster, getresponse, autoresponder, lightbox, modal, emailoctopus, pop up, email, exit intent
 Requires at least: 6.4
 Requires PHP: 7.4
-Tested up to: 7.0
-Stable tag: 2.2.78.3
+Tested up to: 7.1
+Stable tag: 2.2.78.4
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,14 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.78.4 =
+* Updated HubSpot api version to 2026-09.
+* Updated Klaviyo api version to 2026-07-15.
+* Migrated Omnisend api from v3 to 2026-03-15.
+* Fixed bug where comment optin processed spam submissions.
+* Fixed PHP error: Function curl_close() is deprecated since 8.5.
+* Fixed PHP fatal error with emogrify.
 
 = 2.2.78.3 =
 * Fixed Fatal PHP error when sending.
