@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.1
-Stable tag: 2.2.78.4
+Stable tag: 2.2.78.5
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.78.5 =
+* Added rate limiting to the public subscribe_to_email_list handler to curb repeated subscription attempts.
+* Fixed the Mailchimp opt-in fatal error caused when integrations are already a PHP array instead of JSON text.
+* Blocked unrecognized public subscription requests early to prevent MailOptin conversion handling or campaign error emails.
+* Hardened public impression tracking so invalid requests cannot increment campaign stats or trigger tracking hooks.
 
 = 2.2.78.4 =
 * Updated HubSpot api version to 2026-09.
