@@ -17,6 +17,7 @@ See the website for more info https://mailoptin.io/
 == Changelog ==
 
 = 2.2.78.5 =
+* Prevented the opt-in campaign Customizer from fatalling when saved control values are arrays or objects.
 * Added rate limiting to the public subscribe_to_email_list handler to curb repeated subscription attempts.
 * Fixed the Mailchimp opt-in fatal error caused when integrations are already a PHP array instead of JSON text.
 * Blocked unrecognized public subscription requests early to prevent MailOptin conversion handling or campaign error emails.
