@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.1
-Stable tag: 2.2.78.5
+Stable tag: 2.2.78.6
 License: GPL-2.0+
 
 Grow and engage your email list.
@@ -15,6 +15,12 @@ Best lead generation, email automation, and newsletter WordPress Plugin.
 See the website for more info https://mailoptin.io/
 
 == Changelog ==
+
+= 2.2.78.6 =
+* Added "Never show on these post tags" display rule.
+* Added fix for array/object fatal error behind "mailoptin_customizer_normalize_saved_values" filter.
+* Fix Customizer page targeting multiselect persistence.
+* Updated name to Benchmark Email Classic
 
 = 2.2.78.5 =
 * Prevented the opt-in campaign Customizer from fatalling when saved control values are arrays or objects.
