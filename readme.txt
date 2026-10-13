@@ -16,6 +16,9 @@ See the website for more info https://mailoptin.io/
 
 == Changelog ==
 
+= 2.2.78.7 =
+* Fixed security issue from unsanitized field mapping parameter.
+
 = 2.2.78.6 =
 * Added "Never show on these post tags" display rule.
 * Added fix for array/object fatal error behind "mailoptin_customizer_normalize_saved_values" filter.
