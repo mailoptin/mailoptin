@@ -3,7 +3,7 @@ tags: popup, form, newsletter, forms, mailchimp, aweber, constant contact, campa
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.1
-Stable tag: 2.2.78.6
+Stable tag: 2.2.78.7
 License: GPL-2.0+
 
 Grow and engage your email list.
